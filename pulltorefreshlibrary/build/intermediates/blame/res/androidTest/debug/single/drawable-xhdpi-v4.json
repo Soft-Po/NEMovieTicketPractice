@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Android\\Practice\\NEMovieTicket\\NEMovieTicketPractice\\pulltorefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading_small.png",
+        "source": "D:\\Android\\Practice\\NEMovieTicket\\NEMovieTicketPractice\\pulltorefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading_small.png"
+    },
+    {
+        "merged": "D:\\Android\\Practice\\NEMovieTicket\\NEMovieTicketPractice\\pulltorefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\Android\\Practice\\NEMovieTicket\\NEMovieTicketPractice\\pulltorefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\Android\\Practice\\NEMovieTicket\\NEMovieTicketPractice\\pulltorefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\Android\\Practice\\NEMovieTicket\\NEMovieTicketPractice\\pulltorefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\Android\\Practice\\NEMovieTicket\\NEMovieTicketPractice\\pulltorefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading_big.png",
+        "source": "D:\\Android\\Practice\\NEMovieTicket\\NEMovieTicketPractice\\pulltorefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading_big.png"
+    },
+    {
+        "merged": "D:\\Android\\Practice\\NEMovieTicket\\NEMovieTicketPractice\\pulltorefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading_machine.png",
+        "source": "D:\\Android\\Practice\\NEMovieTicket\\NEMovieTicketPractice\\pulltorefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading_machine.png"
+    },
+    {
+        "merged": "D:\\Android\\Practice\\NEMovieTicket\\NEMovieTicketPractice\\pulltorefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "D:\\Android\\Practice\\NEMovieTicket\\NEMovieTicketPractice\\pulltorefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    }
+]

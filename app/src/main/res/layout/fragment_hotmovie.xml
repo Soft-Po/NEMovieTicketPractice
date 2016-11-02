@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:ptr="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <com.example.softpo.nemovieticketpractice.widget.PullToRefreshRecyclerView
+        android:id="@+id/hotMovieFragment_recyclerView"
+        android:layout_width="match_parent"
+        ptr:ptrScrollingWhileRefreshingEnabled="true"
+        ptr:ptrHeaderBackground="@color/lightGray"
+        android:descendantFocusability="blocksDescendants"
+        android:background="@color/lightGray"
+        android:layout_height="match_parent"></com.example.softpo.nemovieticketpractice.widget.PullToRefreshRecyclerView>
+
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pull_to_refresh_pull_label">继续拉，新电影在召唤呢！…</string>
+    <string name="pull_to_refresh_refreshing_label">影片正在载入中…</string>
+    <string name="pull_to_refresh_release_label">手放开，一起看电影…</string>
+</resources>

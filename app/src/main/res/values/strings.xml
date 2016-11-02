@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NEMovieTicketPractice</string>
+    <string name="trailerHeader">条目名称</string>
+    <string name="highlight">推荐热点信息</string>
+    <string name="filmName">电影名称</string>
+    <string name="filmGrade">7.0分</string>
+    <string name="screenings">今日上映剩余场次</string>
+    <string name="orderNow">选座购票</string>
+    <string name="selectSeat">选座购票</string>
+    <string name="cityName">城市名称</string>
+    <string name="selectCity">选择城市</string>
+    <string name="locCityTitle">当前定位城市</string>
+    <string name="shortDefine">分组简称</string>
+
+    <string name="alphbert">热</string>
+    <string name="groupName">编组名称</string>
+</resources>

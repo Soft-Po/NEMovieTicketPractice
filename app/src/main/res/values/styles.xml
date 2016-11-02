@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="CityTextViewItemTitle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_height">80px</item>
+        <item name="android:text">@string/shortDefine</item>
+        <item name="android:paddingLeft">34px</item>
+        <item name="android:textSize">39px</item>
+        <item name="android:textColor">@color/DarkerGray</item>
+        <item name="android:background">@drawable/citylist_headerlayer</item>
+    </style>
+
+    <style name="CityTextViewItemContent">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">91px</item>
+        <item name="android:text">@string/cityName</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">40px</item>
+        <item name="android:textSize">40px</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:background">@drawable/citylist_itemlayer</item>
+    </style>
+
+</resources>

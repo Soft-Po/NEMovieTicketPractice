@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hotCity">
+        <item>北京市</item>
+        <item>上海市</item>
+        <item>广州市</item>
+        <item>深圳市</item>
+        <item>天津市</item>
+        <item>重庆市</item>
+        <item>杭州市</item>
+        <item>南京市</item>
+        <item>武汉市</item>
+        <item>成都市</item>
+        <item>沈阳市</item>
+    </string-array>
+</resources>

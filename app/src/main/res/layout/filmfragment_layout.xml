@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoRelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipChildren="false">
+    <com.example.softpo.nemovieticketpractice.widget.FilmToolbar
+        android:id="@+id/filmFragment_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </com.example.softpo.nemovieticketpractice.widget.FilmToolbar>
+
+    <RelativeLayout
+        android:id="@+id/filmFragment_relativeContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipChildren="false"
+        android:layout_below="@id/filmFragment_toolbar">
+
+    </RelativeLayout>
+
+</com.zhy.autolayout.AutoRelativeLayout>
